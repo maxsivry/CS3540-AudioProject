@@ -4,5 +4,3 @@ dataset/
 train.json
 # Pycharm project files
 .idea
-# Other files
-experiment.ipynb
