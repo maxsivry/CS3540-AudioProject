@@ -1,6 +1,6 @@
 # Musical Key Classification
 
-This project was in fulfiment for course Advanced Machine Learning at the University of Vermont. My group attempted several machine learning approaches to optimize accurate tonal and modality classification given an audio sample of a song, from the dataset below. Read more about the project from the paper below.
+This project was in fulfiment for the course Advanced Machine Learning at the University of Vermont. My group attempted several machine learning approaches to optimize accurate tonal and modality classification given an audio sample of a song, from the dataset below. Read more about the project from the paper below.
 
 
 
